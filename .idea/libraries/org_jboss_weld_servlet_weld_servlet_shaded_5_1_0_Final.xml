@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.jboss.weld.servlet:weld-servlet-shaded:5.1.0.Final" type="repository">
+    <properties maven-id="org.jboss.weld.servlet:weld-servlet-shaded:5.1.0.Final" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/weld/servlet/weld-servlet-shaded/5.1.0.Final/weld-servlet-shaded-5.1.0.Final.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
